@@ -86,11 +86,6 @@ Vathsalya R
 📬 Contact:
 gaganakp1609@gmail.com, rakshithakrishnamurthy2005@gmail.com, shriyapai13@gmail.com, vathsalyar410@gmail.com
 
-🌐 Project Links
-🌍 Project Website
-
-💻 GitHub Repo
-
 🪪 License
 This project is open-sourced under the MIT License. See LICENSE for details.
 
