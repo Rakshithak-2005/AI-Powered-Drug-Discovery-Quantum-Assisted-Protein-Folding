@@ -75,9 +75,10 @@ Comparing classical and quantum predictions
 Enabling explainable AI for researchers
 
 👨‍💻 Contributors
-Gagan K
 
 Rakshitha K
+
+Gagana K
 
 Shriya D Pai
 
