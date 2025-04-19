@@ -391,7 +391,7 @@ with contact_tab:
     [github.com/yourusername/drug-discovery-app](https://github.com/yourusername/drug-discovery-app)
     
     ### 🏢 Our Team
-    - Gagan.K
+    - Gagana K
     - Rakshitha K
     - Shriya D Pai
     - Vathsalya R
